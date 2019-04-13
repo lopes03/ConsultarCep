@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:consultarCep2"
+             x:Class="consultarCep2.MainPage" BackgroundColor="#000000">
+
+    <StackLayout BackgroundColor="#FFBF00" Spacing="30" Padding="30">
+        <Image Source="correios_logo.png"/>
+        <Entry Placeholder="Digite o CEP" PlaceholderColor="#FFBF00" BackgroundColor="#FFFFFF" x:Name="input"/>
+        <Button Text="BUSCAR CEP" TextColor="#FFFFFF" BackgroundColor="#00416B" x:Name="button"/>
+        <Label x:Name="label" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+    </StackLayout>
+
+</ContentPage>

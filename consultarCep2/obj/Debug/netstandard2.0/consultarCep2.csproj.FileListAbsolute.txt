@@ -1,0 +1,12 @@
+C:\Users\Samsung\Visual Studio\consultarCep2\consultarCep2\consultarCep2\bin\Debug\netstandard2.0\consultarCep2.deps.json
+C:\Users\Samsung\Visual Studio\consultarCep2\consultarCep2\consultarCep2\bin\Debug\netstandard2.0\consultarCep2.dll
+C:\Users\Samsung\Visual Studio\consultarCep2\consultarCep2\consultarCep2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Samsung\Visual Studio\consultarCep2\consultarCep2\consultarCep2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Samsung\Visual Studio\consultarCep2\consultarCep2\consultarCep2\obj\Debug\netstandard2.0\consultarCep2.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Visual Studio\consultarCep2\consultarCep2\consultarCep2\obj\Debug\netstandard2.0\consultarCep2.AssemblyInfoInputs.cache
+C:\Users\Samsung\Visual Studio\consultarCep2\consultarCep2\consultarCep2\obj\Debug\netstandard2.0\consultarCep2.AssemblyInfo.cs
+C:\Users\Samsung\Visual Studio\consultarCep2\consultarCep2\consultarCep2\bin\Debug\netstandard2.0\consultarCep2.pdb
+C:\Users\Samsung\Visual Studio\consultarCep2\consultarCep2\consultarCep2\obj\Debug\netstandard2.0\consultarCep2.csprojAssemblyReference.cache
+C:\Users\Samsung\Visual Studio\consultarCep2\consultarCep2\consultarCep2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Samsung\Visual Studio\consultarCep2\consultarCep2\consultarCep2\obj\Debug\netstandard2.0\consultarCep2.dll
+C:\Users\Samsung\Visual Studio\consultarCep2\consultarCep2\consultarCep2\obj\Debug\netstandard2.0\consultarCep2.pdb
